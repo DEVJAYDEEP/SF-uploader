@@ -1,0 +1,5 @@
+#device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
+#download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
+
+device="mido"
+download_link="https://true-mirror-69.gitsauraj.workers.dev/0:/Raven.11_mido-11.0-20211218-2147-OFFICIAL.zip"
